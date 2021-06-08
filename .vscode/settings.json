@@ -1,0 +1,19 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "editor.renderWhitespace": "all",
+  "editor.formatOnSave": false,
+  "editor.defaultFormatter": "vscode.json-language-features",
+  "[javascript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+  "pasteImage.path":"${currentFileDir}/img",
+  "pasteImage.prefix": "./",
+  "editor.fontFamily": "'D2 Coding', 'monospace', monospace"
+
+}
